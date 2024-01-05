@@ -16,6 +16,8 @@ This application is based on plant where you can see differnet types of plants.D
 * [Technologies-Used](#Technologies-Used)
 
 * [Installation](#installation)
+
+* [Screenshots](#Screenshots) 
   
 * [Instructions](#Instructions) 
           
@@ -26,11 +28,26 @@ This application is based on plant where you can see differnet types of plants.D
 
 
 ### Technologies-Used
-  *
+  
   *HTML
   *CSS
   *Tailwind
  
+  ### Screenshots
+ Home Screen
+   ![This is screenshot](./screenshot/home.png)
+
+ Interior Design
+   ![This is screenshot](./screenshot/interior.png)
+
+ Mobile Responsive Design
+   ![This is screenshot](./screenshot/mobile.png)
+
+ Seller Design
+   ![This is screenshot](./screenshot/seller.png)
+
+ Contact Screen
+   ![This is screenshot](./screenshot/contact.png)
 
 
 ### Installing
